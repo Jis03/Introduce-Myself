@@ -43,6 +43,10 @@ Interested in Full Stack Development, UI/UX, APIs, and data-driven solutions.
 <p>
   <img src="https://skillicons.dev/icons?i=github,vscode,postman,fastapi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="48"/>
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" height="48"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="48"/>
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" height="48"/>
 </p>
 
 ---
@@ -58,7 +62,7 @@ Interested in Full Stack Development, UI/UX, APIs, and data-driven solutions.
 ## 🌐 Connect with Me
 
 <p>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:tippawan.ngobkratok@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
