@@ -14,6 +14,12 @@ Interested in Full Stack Development, UI/UX, APIs, and data-driven solutions.
 
 ---
 
+## 🌐 Connect with Me
+
+📧 Email : tippawan.ngobkratok@gmail.com
+
+---
+
 ## 💻 Programming Languages
 
 <p>
@@ -49,20 +55,8 @@ Interested in Full Stack Development, UI/UX, APIs, and data-driven solutions.
   <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" height="48"/>
 </p>
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect with Me
-
-<p>
-  <a href="mailto:tippawan.ngobkratok@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+<p align="center">
+  <img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdxbDB2Y2wxY3dqejRxMm8xN2tveDVyYmkyNWlqeW1yMWl4N2dveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yWks1AKUIldwKNHOxT/giphy.gif)" width="300"/>
 </p>
+
+
