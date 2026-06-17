@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V3MWNxaGlma21uaG5ycnJvODdkdnV3ZXpoMjBrM3F3b3o1ZGRqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" width="800"/>
 </p>
+
 # Hi there 👋 I'm Tippawan Ngobkratok (Pla)
 
 🎓 Bachelor’s Degree in Computer Science  
@@ -59,7 +60,7 @@ Interested in Full Stack Development, UI/UX, APIs, and data-driven solutions.
 </p>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdxbDB2Y2wxY3dqejRxMm8xN2tveDVyYmkyNWlqeW1yMWl4N2dveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yWks1AKUIldwKNHOxT/giphy.gif" width="800"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlodGI5OGo4Z3E1ZmhsdTZ5ZXlzeGplcWEwOXk2bWNmYzk4N3B3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nSiNho356rXH2/giphy.gif" width="800"/>
 </p>
 
 
