@@ -41,7 +41,7 @@ Interested in Full Stack Development, UI/UX, APIs, and data-driven solutions.
 ## 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,postman,fastapi,swaggerapi" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,postman,fastapi,swagger" />
 </p>
 
 ---
