@@ -41,7 +41,8 @@ Interested in Full Stack Development, UI/UX, APIs, and data-driven solutions.
 ## 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,postman,fastapi,swagger" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,postman,fastapi" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48" height="48"/>
 </p>
 
 ---
