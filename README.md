@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V3MWNxaGlma21uaG5ycnJvODdkdnV3ZXpoMjBrM3F3b3o1ZGRqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" width="800"/>
+</p>
 # Hi there 👋 I'm Tippawan Ngobkratok (Pla)
 
 🎓 Bachelor’s Degree in Computer Science  
