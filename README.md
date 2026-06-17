@@ -25,7 +25,7 @@ Interested in Full Stack Development, UI/UX, APIs, and data-driven solutions.
 ## ⚙️ Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,angular,react,nodejs,flutter,dotnet,fastapi" />
+  <img src="https://skillicons.dev/icons?i=vue,angular,react,nodejs,flutter,dotnet" />
 </p>
 
 ---
@@ -41,11 +41,7 @@ Interested in Full Stack Development, UI/UX, APIs, and data-driven solutions.
 ## 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,postman" />
-</p>
-
-<p>
-  📊 Power BI &nbsp;&nbsp;|&nbsp;&nbsp; 📄 Swagger API
+  <img src="https://skillicons.dev/icons?i=github,vscode,postman,fastapi,swaggerapi" />
 </p>
 
 ---
